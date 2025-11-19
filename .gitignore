@@ -54,3 +54,20 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Documentation files (not needed in GitHub)
+COMPLETE_DOCUMENTATION.md
+COMPLETE_STARTUP_GUIDE.md
+CODE_WALKTHROUGH.md
+VERIFICATION_CHECKLIST.md
+PROJECT_STATUS_REPORT.md
+QUICK_REFERENCE.md
+DOCUMENTATION_INDEX.md
+START_HERE.md
+SETUP_COMPLETE.md
+API_REFERENCE_CARD.md
+API_TESTING_GUIDE.md
+QUICK_START.md
+RESPONSE_STRUCTURES.md
+ROOT_README.md
+
